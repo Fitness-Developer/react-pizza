@@ -1,8 +1,8 @@
 **Stack:**
 
-ReactJS + хуки
-React Router
-Redux
-TypeScript
-Axios
-classnames
+- ReactJS + хуки
+- React Router
+- Redux
+- TypeScript
+- Axios
+- classnames
